@@ -1,0 +1,2 @@
+application:
+  strategy: ${STRATEGY:IZIO}
