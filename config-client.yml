@@ -1,2 +1,2 @@
 application:
-  strategy: ${STRATEGY:IZIO}
+  strategy: ${STRATEGY:WINN}
